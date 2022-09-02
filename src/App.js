@@ -1,4 +1,3 @@
-import { DatePicker } from 'antd';
 import 'antd/dist/antd.css';
 import SplitterLayout from 'react-splitter-layout';
 import 'react-splitter-layout/lib/index.css';
